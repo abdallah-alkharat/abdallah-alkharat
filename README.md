@@ -39,5 +39,7 @@ Python (CS50P) · Git · English (A2 → C1)
 ---
 
 ### 📫 Follow the journey
-- LinkedIn: [Abdallah Alkharat](linkedin.com/in/abdallah-alkharat)
+- LinkedIn: [Abdallah Alkharat](www.linkedin.com/in/
+abdallah-alkharat
+)
 - Instagram: [@abdallah_alkharat](https://instagram.com/abdallah_alkharat)
